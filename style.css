@@ -1,0 +1,18 @@
+body{
+    background-color: darkgreen;
+}
+h1{
+    font-size: 60px;
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.cabecalho{
+    background-color: chartreuse;
+}
+
+.logocabecalho{
+    width: 100px;
+}
