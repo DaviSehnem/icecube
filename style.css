@@ -16,3 +16,15 @@ h1{
 .logocabecalho{
     width: 100px;
 }
+.item_lista_cabecalho{
+    color: blueviolet;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 5px;
+}
+.lista_cabecalho{
+display: flex;
+margin-left: 250px;
+
+}
